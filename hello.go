@@ -1,4 +1,4 @@
-package hello
+package golang_simple_module
 
 import "rsc.io/quote"
 
