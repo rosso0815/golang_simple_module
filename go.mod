@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/rosso0815/golang_simple_module
 
 go 1.12
 
